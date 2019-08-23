@@ -46,5 +46,5 @@ tags:
 
 #### 查看某namespace 的secrets  
 `kubectl get secrets -n kube-public`  
-#### 查看木secrets详细信息  
+#### 查看某个secrets详细信息  
 `kubectl describe secret default-token-wvkvt`  
